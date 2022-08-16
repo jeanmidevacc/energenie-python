@@ -5,4 +5,5 @@ To run the code in your python environnement you need to install the requests li
 
 website:http://docs.python-requests.org/en/master/
 
-command line : pip install requests\n
+install requirements by :
+pip install -r requirements.txt
